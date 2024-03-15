@@ -1,0 +1,31 @@
+{
+  "language": "Russian",
+  "language.region": "Russia",
+  "language.code": "ru_ru",
+  "author": "Biorn",
+  "item.biornmod.mandarin": "Мандарин",
+  "item.biornmod.pineapple": "Ананас",
+  "item.biornmod.empty_glass": "Пустой Стакан",
+  "item.biornmod.mandarin_juice": "Мандариновый Сок",
+  "item.biornmod.axe_green": "Зелёный Топор",
+  "item.biornmod.pickaxe_green": "Зелёная Кирка",
+  "item.biornmod.sword_green": "Зелёный Меч",
+  "item.biornmod.shovel_green": "Зелёная Лопата",
+  "item.biornmod.hoe_green": "Зелёная Мотыга",
+  "item.biornmod.helmet_green": "Зелёный Шлем",
+  "item.biornmod.chestplate_green": "Зелёные Доспехи",
+  "item.biornmod.leggings_green": "Зелёные Штаны",
+  "item.biornmod.boots_green": "Зелёные Ботинки",
+  "item.biornmod.first_entity_spawn_egg": "Создать Крокодила",
+
+  "block.biornmod.block_one": "Блок Архитектуры",
+  "block.biornmod.green_metal_block": "Зелёный Металлический Блок",
+  "block.biornmod.green_metal_ore_block": "Зелёная Металлическая Руда",
+  "block.biornmod.deepslate_green_metal_ore_block": "Глубинная Зелёная Металлическая Руда",
+  "block.biornmod.nether_green_metal_ore_block": "Незеритовая Зелёная Металлическая Руда",
+  "block.biornmod.end_green_metal_ore_block": "Зелёная Металлическая Руда Края",
+
+  "entity.biornmod.first_entity": "Крокодил",
+  "creativemodetab.tab": "Моды"
+
+}

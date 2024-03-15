@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "biornmod:end_green_metal_ore",
+  "biomes": "#minecraft:is_end",
+  "step": "underground_ores"
+}

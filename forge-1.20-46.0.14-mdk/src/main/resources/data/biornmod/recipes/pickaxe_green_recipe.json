@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GGG",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "biornmod:green_metal_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "biornmod:pickaxe_green"
+  }
+}

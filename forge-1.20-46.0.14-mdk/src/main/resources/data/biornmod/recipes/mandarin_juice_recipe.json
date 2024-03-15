@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "G M",
+    " S ",
+    " M "
+  ],
+  "key": {
+    "G": {
+      "item": "biornmod:empty_glass"
+    },
+    "M": {
+      "item": "biornmod:mandarin"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "biornmod:mandarin_juice"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biornmod:green_metal_ore_block",
+    "biornmod:deepslate_green_metal_ore_block",
+    "biornmod:nether_green_metal_ore_block",
+    "biornmod:end_green_metal_ore_block"
+  ]
+}

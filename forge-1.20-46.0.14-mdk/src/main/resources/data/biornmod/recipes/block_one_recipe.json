@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "III",
+    "SSS",
+    "   "
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "minecraft:iron_block"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "biornmod:block_one"
+  }
+}

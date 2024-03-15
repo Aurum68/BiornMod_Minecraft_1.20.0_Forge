@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "biornmod:block/green_metal_block"
+  }
+}

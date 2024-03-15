@@ -1,0 +1,30 @@
+{
+  "language": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "author": "Biorn",
+  "item.biornmod.mandarin": "Mandarin",
+  "item.biornmod.pineapple": "Pineapple",
+  "item.biornmod.empty_glass": "Empty Glass",
+  "item.biornmod.mandarin_juice": "Mandarin Juice",
+  "item.biornmod.axe_green": "Green Axe",
+  "item.biornmod.pickaxe_green": "Green Pickaxe",
+  "item.biornmod.sword_green": "Green Sword",
+  "item.biornmod.shovel_green": "Green Shovel",
+  "item.biornmod.hoe_green": "Green Hoe",
+  "item.biornmod.helmet_green": "Green Helmet",
+  "item.biornmod.chestplate_green": "Green Chestplate",
+  "item.biornmod.leggings_green": "Green Leggings",
+  "item.biornmod.boots_green": "Green Boots",
+  "item.biornmod.first_entity_spawn_egg": "Spawn Crocodile",
+
+  "block.biornmod.block_one": "Architecture Block",
+  "block.biornmod.green_metal_block": "Green Metal Block",
+  "block.biornmod.green_metal_ore_block": "Green Metal Ore Block",
+  "block.biornmod.deepslate_green_metal_ore_block": "Deepslate Green Metal Ore Block",
+  "block.biornmod.nether_green_metal_ore_block": "Nether Green Metal Ore Block",
+  "block.biornmod.end_green_metal_ore_block": "End Green Metal Ore Block",
+
+  "entity.biornmod.first_entity": "Crocodile",
+  "creativemodetab.tab": "Modes"
+}
